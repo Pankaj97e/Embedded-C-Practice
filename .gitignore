@@ -1,0 +1,34 @@
+# Compiled Object & Executable files
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# Embedded Firmware & Binary outputs
+*.hex
+*.bin
+*.elf
+*.axf
+*.map
+*.lst
+*.srec
+*.dfu
+
+# Build & Debug Folders (Keil, STM32, MPLAB, VS Code)
+Debug/
+Release/
+Objects/
+Listings/
+build/
+dist/
+.pio/
+
+# IDE & OS Temporary Files
+.vscode/
+.settings/
+*.bak
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
